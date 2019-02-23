@@ -1,0 +1,5 @@
+﻿  FFmpegCodec.cpp
+c:\users\hefang\desktop\github\ffmpegcodec\ffmpegcodec\ffmpegcodec\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\hefang\desktop\github\ffmpegcodec\ffmpegcodec\ffmpegcodec\ffmpegcodec.cpp(26): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\hefang\desktop\github\ffmpegcodec\ffmpegcodec\ffmpegcodec\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+  FFmpegCodec.vcxproj -> C:\Users\hefang\Desktop\GitHub\FFmpegCodec\FFmpegCodec\Debug\FFmpegCodec.exe
