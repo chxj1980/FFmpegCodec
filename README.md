@@ -34,3 +34,14 @@ b. 打开解码器（avcodec_open2）
 
 c. 解码（avcodec_decode_video2）
 
+
+## 2. H264编码流程
+
+
+a. 查找编码器（avcodec_find_encoder_by_name）
+
+b. 设置编码参数，并打开编码器（avcodec_open2）
+
+c. 编码（avcodec_encode_video2）
+
+
