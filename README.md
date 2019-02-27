@@ -45,3 +45,15 @@ b. 设置编码参数，并打开编码器（avcodec_open2）
 c. 编码（avcodec_encode_video2）
 
 
+## 3. AAC编码流程
+
+基本步骤和H264的编码流程基本一样，具体如下：
+
+a. 查找编码器（avcodec_find_encoder_by_name）
+
+b. 设置编码参数，并打开编码器（avcodec_open2）
+
+c. 编码（avcodec_encode_aideo2）
+
+
+
